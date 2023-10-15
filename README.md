@@ -1,6 +1,3 @@
 # node_js_project_with_adina
-למורה היקרה!
-שלום רב,
-אנחנו שולחות את הפרויקט לא גמור 
-בתקווה להבנה
-עדינה ויהודית
+
+This project is a fundraising campaign site
