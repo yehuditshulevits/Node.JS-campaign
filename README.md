@@ -1,3 +1,4 @@
-# node_js_project_with_adina
+# campaign
 
-This project is a fundraising campaign site
+This project is a server for a fundraising campaign website
+It is built with Node.JS and MongoDB
